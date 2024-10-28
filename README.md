@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as a Full Stack Developer
-- ⚙️ I have experience working on Java, Python, React, SpringBoot, Ethical Hacking, Bash and SQL 
+- ⚙️ I’m currently working as a Full Stack Developer
+- 🔭 I have experience working on Java, Python, React, SpringBoot, Ethical Hacking, Bash and SQL 
 - 🌱 I’m currently learning DevOps and AWS
 - ⚡ Fun fact: I love playing and streaming PC/Console games 
 <!-- - 👯 I’m looking to collaborate on ...
