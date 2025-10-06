@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- ⚙️ I’m currently working as a Full Stack Developer
+- ⚙️ I’m currently working as a Cyber Security Engineer/Full Stack Developer
 - 🔭 I have experience working on Java, Python, React, SpringBoot, Ethical Hacking, Bash and SQL 
 - 🌱 I’m currently learning DevOps and AWS
 - ⚡ Fun fact: I love playing PC/Console games and listening to music
